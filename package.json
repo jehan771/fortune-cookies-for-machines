@@ -1,0 +1,1 @@
+{"author":"jehan771","description":"One-line fortune cookie message an AI agent would crack open — make.fun entry","license":"MIT","main":"main.ts","name":"fortune-cookies-for-machines","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
